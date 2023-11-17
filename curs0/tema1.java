@@ -85,6 +85,11 @@ public class tema1 {
         int counter = str1.split(findStr, -1).length-1;
         System.out.println("Numar aparitii cuvant: " + counter);
 
+//        String noufara = str1.replace("the", "");
+//        int as = (str1.length() - noufara.length());
+//        System.out.println(as);
+
+
         //acelasi string -> inlocuieste the cu THE peste tot -> printeaza rezultatul
         String stringReplaced = str1.replace("the", "THE");
         System.out.println("String after replace: " + stringReplaced);
