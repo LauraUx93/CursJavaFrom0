@@ -1,19 +1,6 @@
 package curs0;
 import java.util.Scanner;
 public class tema3 {
-//    Scrie un program care transforma gradele Celsius (primite ca float) in Fahrenheit.
-//    Scrie un program care interschimba valoarea a doua variabile.De exemplu un a = 3 si b = 5 va deveni a = 5 si b = 3.
-//2. Scrie un program in care transforma un numar de minute intr-un numar de ani si zile.Astfel, pentru 530000 minute va afisa: 1 an(i) si 3 zile.
-//    Scrie un program ce calculeaza media aritmetica a 5 numere introduse de la tastatura.
-//    Se dă un număr natural nenul n reprezentând nota la informatică a unui elev. Afișați mesajul promovat dacă nota este mai mare sau egală cu 5 și nepromovat în caz contrar.
-//    Se dă un număr natural nenul n reprezentând nota la informatică a unui elev. Afișați mesajul foarte bine dacă nota este mai mare sau egală cu 8, mesajul bine dacă nota este mai mică decât 8, dar mai mare sau egală cu 5 și mesajul insuficient dacă nota este sub 5.
-//    Se dă un număr natural n. Afișați mesajul par sau mesajul impar dacă numărul este par sau impar.
-//    Se dă un număr natural nenul n cu exact 4 cifre. Afișați care este cea mai mare cifră a acestui număr și de câte ori apare în scrierea numărului.
-//    Se citește un număr natural nenul x care reprezintă o zi a săptămânii. Afișați denumirea zilei căreia îi corespunde numărul (1 – luni, 2 – marți, etc).
-//    Se citesc 3 cifre. Sa se scrie un algoritm care sa construiasca numarul din cele 3 cifre. Ex. se citesc 1, 2, 5 si se alcatuieste numarul 125 (care se afiseaza).
-//    Fie a si b doua numere intregi citite de la tastatura. Scrieti un algoritm care sa verifice daca a si b sunt numere consecutive.
-//    Sa se afiseze anotimpul in functie de numarul lunii (switch) daca  e 2 -> iarna; 8-> e vara …
-
     public static void main(String[] args){
         //1.Scrie un program care transforma gradele Celsius (primite ca float) in Fahrenheit.
         Scanner scanner = new Scanner(System.in);
